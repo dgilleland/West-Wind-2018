@@ -1,11 +1,6 @@
 # West Wind Demo
 
-## Mockups
+## Demos
 
-### Product Catalog
-
-![](ProductCatalog.png)
-
-### Manage Product Catalog
-
-![](ManageInventory.png)
+- Product Catalog
+- Manage Product Catalog
